@@ -1,0 +1,28 @@
+img {
+
+
+    height: 500px;
+    border-radius: 40px;
+    padding: 20px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  
+
+  body {
+    
+    background-color: rgb(61, 10, 82);
+    color: aliceblue;
+
+}
+
+h3 {
+    font-family:'Courier New', Courier, monospace
+    
+}
