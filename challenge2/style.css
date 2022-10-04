@@ -8,12 +8,13 @@ body {
    .flex-container > div {
     background-color: #f1f1f1;
     width: 300px;
-    margin: 500px;
+    margin: 0 auto ;
     text-align: center;
     line-height: 90px;
     font-size: 30px;
     border: 200px;
     border-radius: 40px;
+    margin-top: 300px;
     
   }
 
@@ -25,7 +26,5 @@ body {
 
 p {
     font-size: xx-small;
-
-
 
 }
